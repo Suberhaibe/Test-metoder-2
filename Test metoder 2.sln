@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test metoder 2", "Test metoder 2\Test metoder 2.csproj", "{B95A5AD1-3CBF-4FD6-A269-8C58699E7DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95A5AD1-3CBF-4FD6-A269-8C58699E7DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A5AD1-3CBF-4FD6-A269-8C58699E7DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A5AD1-3CBF-4FD6-A269-8C58699E7DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A5AD1-3CBF-4FD6-A269-8C58699E7DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1596131-2CFA-4781-9E4A-193ECC4D05AA}
+	EndGlobalSection
+EndGlobal
